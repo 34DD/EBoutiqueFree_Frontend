@@ -1,5 +1,7 @@
 # EBoutiqueFree Frontend
-
+clone pour branch:
+ `` git clone --branch ikf-dev -- single-brach https://github.com/34DD/EBoutiqueFree_Frontend
+``
 Application frontend React pour le projet EBoutiqueFree, une boutique en ligne développée avec React, Material-UI et TypeScript.
 
 ## Prérequis
